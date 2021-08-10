@@ -1,0 +1,53 @@
+﻿body
+{
+    max-width:100%;
+    overflow-x:hidden;
+}
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+    position:absolute;
+    top:0%;
+    left:0%;
+}
+.fog
+{
+    top:5%;
+    left:0%;
+    position:absolute;
+}
+.panel
+{
+    top:12%;
+    left:20%;
+    position:absolute;
+    z-index:1;
+    background:transparent;
+}
+.ename
+{
+    font-style:normal;
+    font-family:Bodoni MT Black;
+    color:Black;
+    font-size:120px;
+    position:absolute;
+    top:45%;
+    left:25%;
+}
+.summary
+{
+    font-family:Brush Script MT;
+    font-size:72px;
+    color:Black;
+    font-style:italic;
+    position:absolute;
+    top:65%;
+    left:60%;
+}

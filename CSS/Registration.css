@@ -1,0 +1,223 @@
+﻿body
+{
+    background-image:url("http://localhost:5567/CORONA_WEB/images/registerbg.jpg");
+}
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+    position:absolute;
+    top:0%;
+    left:0%;
+}
+.title
+{
+    font-family: Delicious;
+    font-size:72px;
+    color:#d0e9ea;
+    position:absolute;
+    top:18%;
+    left:18%;
+}
+.IDlbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:37%;
+    left:18%;
+}
+.IDtxt
+{
+    background-color:transparent;
+    border-bottom-color:Silver;
+    border-left:transparent;
+    border-top:transparent;
+    border-right:transparent;
+    font-family:Baskerville Old Face;
+    font-size:38px;
+    color:#deeded;
+    position:absolute;
+    top:37%;
+    left:32%;
+    width:250px;
+}
+.wm
+{
+    font-family:Calibri;
+    font-size:32px;
+    color:Silver;
+}
+.namelbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:50%;
+    left:18%;
+}
+ .nametxt
+{
+    background-color:transparent;
+    border-bottom-color:Silver;
+    border-left:transparent;
+    border-top:transparent;
+    border-right:transparent;
+    font-family:Baskerville Old Face;
+    font-size:38px;
+    color:#deeded;
+    position:absolute;
+    top:50%;
+    left:32%;
+    width:250px;
+}  
+.namewm
+{
+    font-family:Calibri;
+    font-size:32px;
+    color:Silver;
+}
+.contactlbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:63%;
+    left:18%;
+}
+ .contacttxt
+{
+    background-color:transparent;
+    border-bottom-color:Silver;
+    border-left:transparent;
+    border-top:transparent;
+    border-right:transparent;
+    font-family:Baskerville Old Face;
+    font-size:38px;
+    color:#deeded;
+    position:absolute;
+    top:63%;
+    left:32%;
+    width:250px;
+}  
+.contactwm
+{
+    font-family:Calibri;
+    font-size:32px;
+    color:Silver;
+}
+.emaillbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:76%;
+    left:18%;
+}
+ .emailtxt
+{
+    background-color:transparent;
+    border-bottom-color:Silver;
+    border-left:transparent;
+    border-top:transparent;
+    border-right:transparent;
+    font-family:Baskerville Old Face;
+    font-size:38px;
+    color:#deeded;
+    position:absolute;
+    top:76%;
+    left:32%;
+    width:250px;
+}  
+.emailwm
+{
+    font-family:Calibri;
+    font-size:32px;
+    color:Silver;
+}
+.yrlbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:37%;
+    left:60%;
+}
+ .yrtxt
+{
+    background-color:transparent;
+    font-family:Baskerville Old Face;
+    font-size:24px;
+    color:#deeded;
+    position:absolute;
+    top:37%;
+    left:67%;
+    line-height:40px;
+}  
+.branchlbl
+{
+    font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:60%;
+    left:60%;
+}
+ .branchtxt
+{
+    font-family:Baskerville Old Face;
+    color:Black;
+    border-style:solid;
+    border-width:thin;
+    border-color:Black;
+    font-size:24px;
+    position:absolute;
+    top:67%;
+    left:60%;
+} 
+.eventLbl
+{
+   font-family:Baskerville Old Face;
+    font-size:40px;
+    color:#deeded;
+    position:absolute;
+    top:72%;
+    left:60%;
+}
+.eventTxt
+{
+    font-family:Baskerville Old Face;
+    color:Black;
+    border-style:solid;
+    border-width:thin;
+    border-color:Black;
+    font-size:24px;
+    position:absolute;
+    top:78%;
+    left:60%;
+}
+     
+.submitBtn
+{
+    background-color: Green;
+    border-radius:10px;
+    font-family:Calibri;
+    color:White;
+    position:absolute;
+    left:50%;
+    top:88%;
+    font-size:24px;
+    width:150px;
+    
+}

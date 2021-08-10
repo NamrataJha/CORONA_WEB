@@ -1,0 +1,118 @@
+﻿body 
+{
+    max-width:100%;
+    overflow-x:hidden;
+}
+.fog
+{
+    top:5%;
+    left:0%;
+    position:absolute;
+}
+.panel
+{
+    top:12%;
+    left:20%;
+    position:absolute;
+    z-index:1;
+    background:transparent;
+}
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+    position:absolute;
+    top:0%;
+    left:0%;
+}
+.titlecont
+{
+    font-style:normal;
+    font-family:Delicious;
+    color:Black;
+    font-size:60px;
+    position:absolute;
+    top:10%;
+    left:40%;
+}
+.image-orientposter
+{
+    top:15%;
+    left:35%;
+    border-style:solid;
+    border-color:Black;
+    border-width:thin;
+}
+.desc-orientposter
+{
+    font-family:Footlight MT Light;
+    font-size:20px;
+    top:15%;
+    left:50%;
+    height:250px;
+    width:1300px;
+}
+.image-vistasposter
+{
+    top:35%;
+    left:35%;
+     border-style:solid;
+    border-color:Black;
+    border-width:thin;
+}
+.desc-vistasposter
+{
+    font-family:Footlight MT Light;
+    font-size:20px;
+    top:35%;
+    left:50%;
+    height:250px;
+    width:1300px;
+}
+.image-brainposter
+{
+    top:55%;
+    left:35%; 
+    border-style:solid;
+    border-color:Black;
+    border-width:thin;
+}
+.desc-brainposter
+{
+    font-family:Footlight MT Light;
+    font-size:20px;
+    top:55%;
+    left:50%;
+     height:250px;
+    width:1300px;
+}
+.image-herposter
+{
+    top:75%;
+    left:35%;
+     border-style:solid;
+    border-color:Black;
+    border-width:thin;
+}
+.desc-herposter
+{
+    font-family:Footlight MT Light;
+    font-size:20px;
+    top:75%;
+    left:50%;
+     height:250px;
+    width:1300px;
+}
+.panelcont
+{
+    top:25%;
+    left:2%;
+    position:absolute;
+}
+    

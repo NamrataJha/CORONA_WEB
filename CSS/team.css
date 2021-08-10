@@ -1,0 +1,74 @@
+﻿body
+{
+    max-width:100%;
+    overflow-x:hidden;
+    background-color:#7192ff;
+}
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+    position:absolute;
+    top:0%;
+    left:0%;
+}
+.birds
+{
+    top:5%;
+    left:0%;
+    position:absolute;
+}
+.panel
+{
+    top:12%;
+    left:17%;
+    right:14%;
+    position:absolute;
+    z-index:1;
+    height:750px;
+    background:transparent;
+    color:Black;
+    font-family:Calibri;
+    font-size:20px;
+}
+.line1
+{
+    top:93%;
+    left:5%;
+    right:5%;
+    position:absolute;
+}
+.line2
+{
+    top:97%;
+    left:5%;
+    right:5%;
+    position:absolute;
+}
+.line3
+{
+    top:101%;
+    left:5%;
+    right:5%;
+    position:absolute;
+}
+.line4
+{
+    top:105%;
+    left:5%;
+    right:5%;
+    position:absolute;
+}
+.line5
+{
+    top:111%;
+    left:5%;
+    right:5%;
+    position:absolute;
+}

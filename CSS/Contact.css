@@ -1,0 +1,192 @@
+﻿body
+ {
+     max-width:100%;
+     background-attachment:fixed;
+     background-image:url("http://localhost:60725/images/contact.jpg");
+     background-position:left top;
+     background-repeat:no-repeat;
+     overflow:hidden;
+     background-color:Black;
+ }
+ .contact-title
+ {
+     font-family: Moving Skate;
+     font-weight:bolder;
+     font-size:150px;
+     color:White;
+     position:absolute;
+     left:10%;
+     top:10%;
+ }
+ .contact-mailicon
+ {
+     position:absolute;
+     left:7%;
+     top:66%;
+ }
+ .contact-maillink
+ {
+     position:absolute;
+     color:White;
+     font-size:28px;
+     font-family:Calibri;
+     left:13%;
+     top:67%;
+ }
+ .contact-fbicon
+ {
+     position:absolute;
+     left:7%;
+     top:75%;
+    height: 51px;
+    width: 63px;
+}
+.contact-fblink
+ {
+     position:absolute;
+     color:White;
+     font-size:28px;
+     left:13%;
+     font-family:Calibri;
+     top:77%;
+ }
+ .contact-instaicon
+ {
+     position:absolute;
+     left:7%;
+     top:85%;
+ }
+ .contact-instalink
+ {
+     position:absolute;
+     color:White;
+     font-size:28px;
+     left:13%;
+     top:87%;
+     font-family:Calibri;
+ }
+ .fname
+ {
+     background-color:White;
+     border-radius:10px;
+     font-family:Calibri;
+     color:Black;
+     position:absolute;
+     left:55%;
+     top:42%;
+    height: 35px;
+    width: 225px;
+}
+.fnamevalid
+{
+    color:White;
+    font-family:Calibri;
+    position:absolute;
+    left:56%;
+    top:48%;
+}
+.email
+ {
+     background-color:White;
+     border-radius:10px;
+     font-family:Calibri;
+     color:Black;
+     position:absolute;
+     left:55%;
+     top:52%;
+    height:35px;
+    width: 225px;
+}
+.emailvalid
+{
+    color:White;
+    font-family:Calibri;
+    position:absolute;
+    left:56%;
+    top:58%;
+}
+.lname
+ {
+     background-color:White;
+     border-radius:10px;
+     font-family:Calibri;
+     color:Black;
+     position:absolute;
+     left:73%;
+     top:42%;
+    height: 35px;
+    width: 225px;
+}
+.phone
+ {
+     background-color:White;
+     border-radius:10px;
+     font-family:Calibri;
+     color:Black;
+     position:absolute;
+     left:73%;
+     top:52%;
+    height: 35px;
+    width: 225px;
+}
+.phonevalid
+{
+    color:White;
+    font-family:Calibri;
+    position:absolute;
+    top:58%;
+    left:74%;
+}
+.msg
+ {
+     background-color:White;
+     border-radius:10px;
+     font-family:Calibri;
+     color:Black;
+     position:absolute;
+     left:55%;
+     top:62%;
+    height: 120px;
+    width: 494px;
+}
+.msgvalid
+{
+    color:White;
+    font-family:Calibri;
+    position:absolute;
+    top:79%;
+    left:56%;
+}
+.submit
+{
+    background-color: Green;
+    border-radius:10px;
+    font-family:Calibri;
+    color:White;
+    position:absolute;
+    left:55%;
+    top:84%;
+    font-size:24px;
+}
+   
+.watermark-css
+{
+    font-family:Calibri;
+    font-size:18px;
+    color:Gray;
+    text-align:justify center;
+}  
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    top:0%;
+    left:0%;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+    position:absolute;
+}

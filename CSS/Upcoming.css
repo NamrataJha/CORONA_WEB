@@ -1,0 +1,35 @@
+﻿body 
+{
+    background-image:url("http://localhost:5567/CORONA_WEB/img/demo-1-bg.jpg");
+}
+.ename
+{
+    font-style:normal;
+    font-family:Bodoni MT Black;
+    color:White;
+    font-size:60px;
+    position:absolute;
+    top:45%;
+    left:45%;
+}
+.summary
+{
+    font-family:Brush Script MT;
+    font-size:42px;
+    color:White;
+    font-style:italic;
+    position:absolute;
+    top:55%;
+    left:45%;
+}
+.navbar
+{
+    font-family:Bookman Old Style;
+    font-size:22px;
+    background-color:Black;
+    color:White;
+    height:44px;
+    width:100%;
+    text-align:center;
+    z-index:900;
+}
